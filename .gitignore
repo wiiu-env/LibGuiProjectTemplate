@@ -1,0 +1,8 @@
+*.cbp
+*.elf
+*.rpx
+build/
+src/resources/filelist.h
+.idea/
+CMakeLists.txt
+cmake-build-debug/
